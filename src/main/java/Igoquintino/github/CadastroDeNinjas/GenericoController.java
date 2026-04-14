@@ -4,10 +4,11 @@ import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping
-public class Controller {
+public class GenericoController {
 
     @GetMapping("/boasvindas")
     public String boasVindas() {
         return "Minha primeira mensagem nessa rota";
     }
 }
+
