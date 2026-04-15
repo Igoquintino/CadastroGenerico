@@ -1,4 +1,4 @@
-package Igoquintino.github.CadastroDeNinjas;
+package Igoquintino.github.CadastroDeGenericos;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

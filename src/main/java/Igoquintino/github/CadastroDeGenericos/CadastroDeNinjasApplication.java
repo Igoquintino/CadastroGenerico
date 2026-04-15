@@ -1,4 +1,4 @@
-package Igoquintino.github.CadastroDeNinjas;
+package Igoquintino.github.CadastroDeGenericos;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

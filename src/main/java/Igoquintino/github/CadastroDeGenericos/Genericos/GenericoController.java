@@ -1,4 +1,4 @@
-package Igoquintino.github.CadastroDeNinjas;
+package Igoquintino.github.CadastroDeGenericos.Genericos;
 
 import org.springframework.web.bind.annotation.*;
 
